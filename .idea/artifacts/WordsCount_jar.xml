@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WordsCount:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WordsCount_jar</output-path>
+    <root id="archive" name="WordsCount.jar">
+      <element id="module-output" name="WordsCount" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/sun/faces/jsf-api/2.2.7/jsf-api-2.2.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/primefaces/primefaces/6.0/primefaces-6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/sun/faces/jsf-impl/2.2.7/jsf-impl-2.2.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
