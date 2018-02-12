@@ -1,6 +1,6 @@
 package beans;
 
-
+//mmnmnbmnbnm
 import java.util.ArrayList;
 
 public class Dictionary {
